@@ -1,7 +1,4 @@
 """
-:author: Anh Hoang
-2022 Apr 20
-Homework 7
 
 This file contains a main that will execute the game and allow user to play
 
